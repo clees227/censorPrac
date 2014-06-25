@@ -1,0 +1,19 @@
+ {
+   "author": "Colin Lees (Brad Dayley for source code)",
+   "name": "censorifycol",
+   "version": "0.1.1",
+   "description": "Censors words out of text",
+   "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clees227/censorPrac"
+   },
+   "keywords": [
+     "censor",
+     "words"
+  ],
+   "dependencies": {},
+   "engines": {
+       "node": "*"
+   }
+ }
